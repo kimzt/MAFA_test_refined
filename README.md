@@ -16,6 +16,7 @@ The **occlusion** is 1 (*clean*) or 2 (*masked*).
 
 If you use this repo, please reference the following two works:
 
+MAFA original:
 ```
 @inproceedings{shiming2017mafa,
 Author = {Shiming Ge, Jia Li, Qiting Ye, Zand Zhao Luo},
@@ -24,6 +25,7 @@ Title = {Detecting Masked Faces in the Wild with LLE-CNNs},
 Year = {2017}}
 ```
 
+Ours:
 ```
 TODO
 ```
