@@ -1,6 +1,6 @@
 # MAFA_test_refined
 
-This repository provides the refined [MAFA]:https://www.kaggle.com/rahulmangalampalli/mafa-data test set.  
+This repository provides the refined [MAFA](https://www.kaggle.com/rahulmangalampalli/mafa-data) test set.  
 The original MAFA dataset is introduced by the paper titled "Detecting Masked Faces in the Wild With LLE-CNNs" in CVPR2017. According to our analysis, however, MAFA test set contains a lot of mislabels with occlusion degree.  
 The refined test set includes 4935 images and 9545 faces.
 
@@ -18,9 +18,9 @@ The **occlusion** is 1 (*clean*) or 2 (*masked*).
 
 If you use this repo, please reference our work:
 
-'''
+```
 TODO
-'''
+```
 
 
 
