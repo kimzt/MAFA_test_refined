@@ -27,7 +27,11 @@ Year = {2017}}
 
 Ours:
 ```
-TODO
+@inproceedings{youngsam2021lsfd,
+Author = {Youngsam Kim, Jong-hyuk Roh, Soohyung Kim},
+Booktitle = {International Conference on ICT Convergence (ICTC)},
+Title = {LSFD: Lightweight Single Stage Masked Face Detector with a CPU Real-time Speed},
+Year = {2021}}
 ```
 
 
